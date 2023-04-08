@@ -1,8 +1,15 @@
+asgiref==3.6.0
+backports.zoneinfo==0.2.1
 cryptography==2.8
+Django==4.2
 docutils==0.19
+Kivy==2.1.0
+Kivy-Garden==0.1.5
 numpy==1.24.2
 opencv-python==4.7.0.68
 Pillow==9.5.0
 Pygments==2.14.0
+pyOpenSSL==19.0.0
 six==1.14.0
+sqlparse==0.4.3
 whitenoise==6.4.0
